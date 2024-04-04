@@ -91,5 +91,19 @@
     Ooh (Uh-huh, yup)
     When I see you again
     </pre>
+<!--
+##Audio is also avaiable by using 
+<audio>
+source src = "path"
+</audio>
+##Adding video by using 
+<a control autoplay loop muted>
+<video>
+##also an add a link when click the video
+<source src ="Path" type="mpe/webm">
+</video>
+</a>
+-->
+
 </head>
 </html>
